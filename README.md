@@ -1,1 +1,1 @@
-This is design to decribe how n8n work and give insights to our Engineers
+print('Hello, World!')
